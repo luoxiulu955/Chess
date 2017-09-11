@@ -1,0 +1,13 @@
+Name: Liang Xia
+JDK Used: 1.8.0_111
+IDE Used: Eclipse Neon.2 Release (4.6.2)
+Main File: ChessTester.java
+Load File: *.png (all the png image files)
+Other Instructions: 
+
+To run the program: 
+1. Compile
+   cd lxia
+   javac *.java
+2. Run the pragram
+   java ChessTester							
